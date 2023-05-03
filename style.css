@@ -1,0 +1,25 @@
+body {
+    background-color:blanchedalmond;
+}
+* {
+    text-align: center; 
+}
+.head {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+    #ab {
+        border: 2px solid rgb(151, 143, 143);
+        border-radius: 18%;
+    }
+    .button {
+    color:black;
+    background-color: rgb(140, 140, 173);
+    border: none;
+    padding: 9px;
+    font-size: 19px;
+    border-radius: 27%;
+    }
+    .button:hover {
+        background-color: gray;
+    }
